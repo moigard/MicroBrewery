@@ -2,7 +2,7 @@
 
 namespace MicroBrewery
 {
-    public class Class1
+    public class Brewery
     {
     }
 }
